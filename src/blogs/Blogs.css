@@ -1,0 +1,62 @@
+.blogs{
+    margin-left:10%;
+    display: flex;
+    flex-wrap: wrap;
+    border-style: groove;
+}
+.post{
+    width: 300px;
+    margin: 0px 25px 40px 25px;
+}
+
+
+.postInfo{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 10px;
+    justify-content: center;
+    border-style: groove;
+}
+
+.postCat{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    color: gray;
+    font-style: oblique;
+    margin-top: 10px;
+}
+
+.postTitle{
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    font-weight: 100;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.postBottom{
+    display: flex;
+    margin-top:5px;
+}
+
+.postDate{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    font-style: italic;
+}
+
+.arrowKey{
+    margin-left:10px;
+    cursor: pointer;
+}
+
+
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 100%;               
+    background-color:#FCD12A;
+    height: 2px;
+  }

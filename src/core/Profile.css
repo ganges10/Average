@@ -1,0 +1,23 @@
+.description{
+    margin-left:1%;
+    display: flex;
+}
+.detail{
+    flex: 9;
+    text-align: justify;
+    margin-left: 20px;
+}
+
+.userDetails{
+    text-align: center;
+    margin: 0;
+    font-style: oblique;
+    font-family: fantasy;
+    padding: 0;
+    list-style: none;
+    
+}
+
+
+
+

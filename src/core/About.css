@@ -1,0 +1,38 @@
+.description{
+    margin-left:2%;
+    display: flex;
+}
+.detail{
+    flex: 9;
+    text-align: justify;
+}
+.developer{
+    display: flex;
+    justify-content: center;
+    margin : 10px;
+    flex:3;
+    flex-direction: column;
+    border-style: groove;
+
+}
+.creators{
+    text-align: center;
+    margin: 0;
+    font-style: oblique;
+    font-family: fantasy;
+    padding: 0;
+    list-style: none;
+}
+.devList{
+    text-align: center;
+    margin: 0;
+    font-family: cursive;
+    padding: 0;
+    list-style: none;
+}
+.listItem{
+    margin-right: 30px;
+    font-size: 15px;
+    color: brown;
+    font-weight: 300;
+}
